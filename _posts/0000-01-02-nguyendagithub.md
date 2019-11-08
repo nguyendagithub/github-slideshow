@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Dave update slide!"
 ---
-Replace something new
+This my awesome slide
 Use the left arrow to go back!
